@@ -22,7 +22,7 @@
 
   ## Usage
 
-  Download the app, then using the command line download npm inquirer. Then initialize the application by typing 'node index.js in the command line, hit 'enter' then follow the command line prompts.
+ https://youtu.be/Z9Bhaw2A7RY
 
   ## Contributing
 
