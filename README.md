@@ -22,7 +22,7 @@
 
   ## Usage
 
- ![video.tutorial](https://youtu.be/Z9Bhaw2A7RY)
+ ![video.tutorial](./VIDEO-TUTORIAL.mp4)
 
   ## Contributing
 
